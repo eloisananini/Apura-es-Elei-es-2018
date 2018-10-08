@@ -1,0 +1,62 @@
+.eba1 {
+	float: left;
+}
+
+.eba2 {
+	float: right;
+}
+
+h1#socorro {
+	font-family: Open Sans;
+	font-size: 3rem;
+	font-weight: bold;
+	letter-spacing: -.20625rem;
+	line-height: 3rem;
+	padding-bottom: 12px;
+}
+
+h1#help {
+	font-size: 1.5rem;
+	color: #666666;
+	letter-spacing: -.10625rem;
+	margin-top: 10px;
+}
+
+div.linha {
+	margin-top: 50px;
+}
+
+.progress {
+	height: 6px; 
+	width: 100%;
+	border-radius: 0px;
+}
+
+.paragrafo {
+	margin-top: 15px;
+	color: #666666;
+	font-size: 1rem;
+}
+
+.span {
+	font-weight: bold;
+}
+
+hr {
+	margin-top: 35px;
+}
+
+p.candidatos {
+	font-size: 1.5rem;
+    letter-spacing: -.10625rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+}
+
+img.imagem {
+	height: 3.875rem;
+    width: 3.875rem;
+    border: .0625rem solid #e5e5e5;
+    border-radius: 50%;
+    overflow: hidden;
+}

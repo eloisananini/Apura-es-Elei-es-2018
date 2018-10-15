@@ -32,6 +32,12 @@ div.linha {
 	border-radius: 0px;
 }
 
+.progress1 {
+	height: 4px; 
+	width: 100%;
+	border-radius: 0px;
+}
+
 .paragrafo {
 	margin-top: 15px;
 	color: #666666;
@@ -59,4 +65,33 @@ img.imagem {
     border: .0625rem solid #e5e5e5;
     border-radius: 50%;
     overflow: hidden;
+}
+
+div.esquerda {
+	float: left;
+}
+
+div.info {
+	margin-left: 12px;
+	width: 90%;
+}
+
+#nome {
+	font-family: Open Sans;
+	font-size: 1.125rem;
+	letter-spacing: -.0625rem;
+	font-weight: 600;
+	line-height: 1;
+	margin-bottom: 2px;
+}
+
+#partido {
+	font-family: Open Sans;
+	font-size: 1rem;
+	color: #999;
+	font-weight: 400;
+}
+
+.candidato {
+	width: 100%;
 }
